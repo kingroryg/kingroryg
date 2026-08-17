@@ -3,7 +3,7 @@
 
 
 Current stable projects:
-- 📈 **[TurboKV](https://openclaw.ai](https://crates.io/crates/turbokv))** - a fast, simple, and, embedded key-value store for Rust
+- 📈 **[TurboKV](https://crates.io/crates/turbokv)** - a fast, simple, and, embedded key-value store for Rust
 
 
 Experiments:
